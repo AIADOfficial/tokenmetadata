@@ -1,0 +1,11 @@
+{
+    "chainId": 101,
+    "address": "2BMP7JNau33wAxxQiXMpiKhRZ4Y5J9ow2v6hEaNf7GXY",
+    "symbol": "AIAD",
+    "name": "AIAD",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/AIADOfficial/logo/main/logo.png",
+    "tags": [
+      "utility-token"
+    ]
+  }
